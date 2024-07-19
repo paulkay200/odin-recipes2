@@ -1,1 +1,3 @@
-# odin-recipes2
+#Project: Recipes
+
+Overall, I feel good while writing code, but I need to remind myself to use git to commit messages every time. Sometimes I don't know when to write commit messages, and how often to write commit messages. This makes me feel very complicated. The downside is that every time I submit a commit message, it will block some of my time to continue to complete the project. I will try to overcome this difficulty in the later course learning.
